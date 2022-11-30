@@ -8,10 +8,9 @@
 
 # ダウンロード
 
-1.Ubuntu をダウンロードする。
-
-2.git が入ってない場合は以下のコマンドでインストールする。
-　sudo apt install git
+1. Ubuntu をダウンロードする。
+2. git が入ってない場合は以下のコマンドでインストールする。
+　 sudo apt install git
 
 # インストール
 
