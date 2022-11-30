@@ -9,13 +9,15 @@
 # ダウンロード
 
 1.Ubuntu をダウンロードする。
+
 2.git が入ってない場合は以下のコマンドでインストールする。
 　sudo apt install git
 
 # インストール
 
 以下のコマンドでインストールする。
-　git clone https://github.com/Mark-D127/robosys2022 
+
+git clone https://github.com/Mark-D127/robosys2022 
 
 # 起動する手順
 1. cd robosys2022 でおりる。
